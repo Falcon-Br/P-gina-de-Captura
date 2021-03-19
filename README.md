@@ -5,9 +5,9 @@
 
 *Acesse o projeto aqui: https://paginadecaptura.netlify.app/*
 
-O projeto Página de Caputura é uma aplicação web simulando uma página de uma palestra, com o intuito de capturar contatos de E-mail para a participação de um Workshop de Marketing.
+O projeto Página de Captura é uma aplicação web simulando uma página de uma palestra, com o intuito de capturar contatos de E-mail para a participação de um Workshop de Marketing.
 
-A aplicação consiste em uma usuário informar os seus dados para contato, para posteriormente serem capturados pelo o site [Mailchimp's](https://mailchimp.com/pt-br/), onde o administrador da página poderá disparar E-mails de confirmação de incrição para todos que fizeram o cadastro.
+A aplicação consiste em uma usuário informar os seus dados para contato, para posteriormente serem capturados pelo o site [Mailchimp's](https://mailchimp.com/pt-br/), onde o administrador da página poderá disparar E-mails de confirmação de inscrição para todos que fizeram o cadastro.
 
 ## Layout web
 ![Web 1](https://github.com/Falcon-Br/Pagina-de-Captura/blob/main/assets/Pagina%20de%20Caputra.png)
