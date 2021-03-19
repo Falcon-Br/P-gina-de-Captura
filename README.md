@@ -34,7 +34,10 @@ Pré-requisitos: Nenhum
 git clone https://github.com/Falcon-Br/Pagina-de-Captura
 
 # entrar na pasta do projeto 
-Dentro do repositório,clique no botão code, e baixe e o arquivo zip, procure a arquivo "index" e o execute
+No repositório, clique no botão "code", e baixe e o arquivo zip, procure a arquivo "index" e o execute
+
+#Entre diretamente no link abaixo
+https://paginadecaptura.netlify.app/
 ```
 
 
